@@ -3,7 +3,7 @@
 <head>
 	<meta http-equiv="content-type" content="text/html; charset=ISO-8859-1" />
 	<link type="text/css" rel="stylesheet" href="estilos.css" />
-	<title>Incluir/Editar um contato.</title>
+	<title>Teste OK</title>
 </head>
 
 <body>
